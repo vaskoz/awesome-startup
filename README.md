@@ -19,6 +19,7 @@ A curated list of awesome books, videos, courses and resources about making a st
 * [Startup Notes](http://startupnotes.org/#page/1)
 * [Hooked: How to Build Habit-Forming Products](http://amzn.com/1591847788)
 - [The Lean Startup by Eric Ries](http://www.amazon.com/Lean-Startup-Innovation-Successful-ebook/dp/B004J4XGN6/)
+- [The Startup Way: How Modern Companies Use Entrepreneurial Management to Transform Culture and Drive Long-Term Growth](https://www.amazon.com/Startup-Way-Companies-Entrepreneurial-Management/dp/1101903201/)
 - [Business Model Generation by Alexander Osterwalder](http://www.amazon.com/Business-Model-Generation-Visionaries-ebook/dp/B00BD6RFFS/)
 - [The Startup Owner's Manual by Steve Blank](http://www.amazon.com/Startup-Owners-Manual-Step--ebook/dp/B009UMTMKS/) - The Startup Owner's Manual lays out the best practices, lessons and tips that have swept the startup world, offering a wealth of proven advice and information for entrepreneurs of all stripes.
 - [Running Lean by Ash Maurya](http://www.amazon.com/Running-Lean-Iterate-Series-ebook/dp/B006UKFFE0/) - A practical guide to the Lean Startup
